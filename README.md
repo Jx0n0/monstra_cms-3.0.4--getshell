@@ -33,7 +33,7 @@ Use burp to intercept the packet and modify the suffix to PhP.
 
 Successful upload
 
-![Alt text]3.png) 
+![Alt text](3.png) 
 
 菜刀链接
 
